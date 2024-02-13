@@ -1,0 +1,79 @@
+body{
+  background-color: #EA5959;
+  padding: 100px;
+}
+.yinp{
+  padding-left: 20px;
+  width: 678px;
+  height: 47px;
+  border: 1px solid #00000021;
+  border-radius: 8px;
+  margin-bottom: 50px;
+
+}
+label{
+  color: #5A5A5A;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 15px;
+}
+button{
+  width: 115px;
+  height: 24px;
+  border-radius: 4px;
+  background-color: #EA5959;
+  color: white;
+  border: none;
+}
+button:hover{
+  background-color:  rgb(255, 29, 29);
+
+}
+.qw{
+  padding-top: 15px;
+}
+.qutt{
+  margin-left: 400px;
+}
+.dalet{
+  background-color: white;
+}
+.chek{
+  color: #EA5959;
+}
+
+.All{
+  display: flex;
+  background-color: white;
+  width: 966px;
+  height: 550px;
+  border-radius: 20px;
+}
+.hhed1{
+width: 200px;
+height: 548px;
+border-right: 1px solid rgba(0, 0, 0, 0.418);
+}
+.hhed2{
+  padding-left: 50px;
+}
+.cotalog{
+padding: 100px 0px 0px 44px ;
+
+}
+.q1{
+  color: #EA5959;
+  font-size: 32px;
+  }
+  .q1:hover{
+    color: #ff2727;
+    font-size: 32px;
+    }
+    .q2{
+      color: #00000088;
+      font-size: 32px;
+      }
+      .q2:hover{
+        color: #EA5959;
+        font-size: 32px;
+        }
